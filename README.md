@@ -1,4 +1,3 @@
-Este arquivo contém um o jogo sorteio de números que tem a função de sortear num aleatórios exemplos eu quero 5 números
-e aí você determina de onde você quer se sim o que eu quero às 5 do de 35 a 500 aí você coloca 35 e o número 500 e aí 
-você aperta sortear e aí ele vai sortear 5 números de 35 a 500 
-as funções estão implementada no java script eu também tenho um histórico onde você pode recuperar a jogadas que foi feito anteriormente
+Este projeto contém um jogo de sorteio de números que permite sortear números aleatórios dentro de um intervalo definido. Por exemplo, se você quiser sortear 5 números entre 35 e 500, basta inserir 35 como o valor mínimo e 500 como o valor máximo, e então clicar no botão "Sortear". O jogo sorteará 5 números aleatórios dentro desse intervalo.
+
+As funções para realizar o sorteio e gerenciar o histórico dos sorteios estão implementadas em JavaScript. Além disso, há uma funcionalidade de histórico que permite recuperar os resultados dos sorteios realizados anteriormente.
